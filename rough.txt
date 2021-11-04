@@ -1,0 +1,9 @@
+tables:
+1.Registration(both teachers & pupils)
+2.Pupils table
+3.Teachers Table
+4.Question Tables
+5.Answers 
+6.Score.
+7.Subject.
+8.Report.
